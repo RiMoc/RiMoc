@@ -9,7 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RiMoc/RiMoc/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
